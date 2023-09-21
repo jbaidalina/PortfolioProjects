@@ -27,7 +27,7 @@ Conducted data cleaning to rectify incorrect data types and handle missing value
 Conducted exploratory data analysis to understand the dataset's structure and variables
 Created two SQL views named v_CovidDeaths and v_CovidVaccinations
 For the purpose of data visualization, created an additional SQL view named v_CovidDeathsVaccinations_weekly
-SQL scripts are available [here](/DataExploration.sql)
+SQL scripts are available [here](/Covid19_Data_Analysis/DataExploration.sql)
 
 3. Data Visualization in Tableau
 Prepared two datasets for uploading to Tableau: CovidDeathsVaccination_weekly.csv and WorldDeathsTotal.csv
