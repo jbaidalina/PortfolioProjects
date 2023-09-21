@@ -33,6 +33,8 @@ SQL scripts are available [here](/Covid19_Data_Analysis/DataExploration.sql)
 Prepared two datasets for uploading to Tableau: CovidDeathsVaccination_weekly.csv and WorldDeathsTotal.csv
 Uploaded the datasets to Tableau
 Created and published the dashboard, which is accessible [here](https://public.tableau.com/views/Covid-19Deaths_16951637623330/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+![image](https://github.com/jbaidalina/PortfolioProjects/assets/25383004/fe816443-28a0-46e8-8490-6ad8367fca38)
+
 
 
 
