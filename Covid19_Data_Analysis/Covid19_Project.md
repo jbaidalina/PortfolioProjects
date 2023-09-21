@@ -1,21 +1,21 @@
-**Objective**
+##Objective
 
 The aim of this project is to provide an overview of COVID-19 mortality rates across various countries and to illustrate how the pandemic has evolved over time through its different waves.
 
-**Skills Demonstrated**
+##Skills Demonstrated
 
 This project showcases my expertise in data preparation and cleaning using SQL, as well as data visualization using Tableau.
 
-**Key Questions Answered**
+##Key Questions Answered
 
 How many people have died due to COVID-19?
 What is the percentage of deaths relative to the population in each country?
 How is the number of deaths correlated with the Stringency Index? 
 
-<!--- The stringency index is a composite measurebased on nine response indicators including schoolclosures, workplace closures, and travel bans,rescaled to a value from 0 to 100 (100 = strictest) -->
+*The stringency index is a composite measurebased on nine response indicators including schoolclosures, workplace closures, and travel bans,rescaled to a value from 0 to 100 (100 = strictest)
 
  
-** Steps to Conduct the Project**
+##Steps to Conduct the Project
 
 1. Data Collection
 Source: Downloaded dataset from [Our world in data](https://ourworldindata.org/covid-deaths)
